@@ -30,12 +30,17 @@ public class Login {
         WebElement loginButton= driver.findElement(By.id("_submit"));
         loginButton.click();
         // verify that you are in the home page
-        String expectedTitle = "Dashboard";
-        String actualTitle = driver.getTitle();
-        if(expectedTitle.equalsIgnoreCase(actualTitle)){
-            System.out.println("actualTitle = " + actualTitle);
+        String expectedResult  = "Dashboard";
+        String actualResult = driver.getTitle();
+        if (expectedResult.equals(actualResult)){
+            System.out.println("Pass");
+        }else {
+            System.out.println("Fail");
+            System.out.println("Expected "+expectedResult);
+            System.out.println("Actual "+actualResult);
         }
-      
+
+
 
 
 
