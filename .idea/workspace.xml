@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84f77ac1-8e4b-4e7d-afd4-075c11de4fad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/ActionsClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/JavaScriptExecutorTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_select_actions/SelectClassTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_webelement/CheckBoxesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_webelement/DisabledAndDisplayTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_webelement/ListOfElementTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_webelement/OrderOfTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_webelement/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day11_webelement/RadioButtonsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_review1/AmazonCssExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_review1/AmazonTestWithText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_review1/AmazonTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_review1/SystemPropertiesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/officeHours_testingWithNourallah/StatusCodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/officehours_select032320/GoogleHoverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/officehours_select032320/ReviewAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/officehours_select032320/SelectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day11_webelement/CheckBoxesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day11_webelement/RadioButtonsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_css/CssLocator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_review1/AmazonCssExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_review1/AmazonTestWithText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_review1/AmazonTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_review1/SystemPropertiesExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/officeHours_day03092020/HomeWorkWithAhmet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/officeHours_day03092020/VytrackTitleTes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/officeHours_testingWithNourallah/StatusCodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/officehours_day03162020/GoogleSearchTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/days6_css/CssLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day6_css/CssLocator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/days6_css/CssLocator.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,29 +177,29 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="329" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.225.1920.1040@0.0.1536.824" timestamp="1584804859831" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1585062384049">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1585062489522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.225.1920.1040@0.0.1536.824" timestamp="1585015433653" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1585062384049" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1585062489521" />
     <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585048713447" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1585062384049">
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1585062489521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824/-1920.225.1920.1040@0.0.1536.824" timestamp="1585015433653" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1585062384049" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1585062489521" />
     <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585048713446" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1585062384048">
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1585062489521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824/-1920.225.1920.1040@0.0.1536.824" timestamp="1585015433653" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1585062384048" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1585062489521" />
     <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585048713445" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1585062384049">
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1585062489521">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824/-1920.225.1920.1040@0.0.1536.824" timestamp="1585015433653" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1585062384049" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1585062489521" />
     <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585048713446" />
     <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1585053340353">
       <screen x="0" y="0" width="1536" height="824" />
